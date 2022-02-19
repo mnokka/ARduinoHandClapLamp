@@ -2,6 +2,12 @@
 Control logic SW for Arduino managed table lamp. Uses noice as switching command. Arduino Uno + relay and microphone modules required.
 
 
+Info:
+
+Using high voltage load requires knowledge what one is doing. 
+Battery powered lamp can be used instead
+
+
 HW info:
 
 Relay low side is connected to Arduino (GND-->GND,VCC --> +5v, IN  pin --> Arduino pin 3)
